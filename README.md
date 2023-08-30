@@ -8,5 +8,7 @@
 <a name="summary"></a>
 ## Brief Summary
 - Personal React & TypeScript Project to create a **Front-End Application**.
-- Driven by an **unwavering enthusiasm for learning and self-improvement**, I dedicated my **personal time** to meticulously develop and refine this Front-End Application.
+
+<a name="aims"></a>
+## 🎯Aims and Motivation
 
