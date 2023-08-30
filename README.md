@@ -1,1 +1,1 @@
-# Online-Shopping-Store
+# Online Shopping Store - React and Typescript
