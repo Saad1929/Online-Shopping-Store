@@ -1,4 +1,4 @@
-# Online Shopping Store - React and TypeScript
+# Online Shopping Store - React and TypeScript 
 ## Contents
 1. [ Brief Summary ](#summary)
 2. [ Aims and Motivation ](#aims)
