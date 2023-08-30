@@ -41,7 +41,8 @@
 <a name="screenshots"></a>
 ## Application Screenshots
 ## Store Page
-<img width="1440" alt="Store Page" src="https://github.com/Saad1929/Online-Shopping-Store/assets/108022733/a7a5611f-28c6-4f13-9132-dd2cd30deae2">
+<img width="1440" alt="Store Page" src="https://github.com/Saad1929/Online-Shopping-Store/assets/108022733/e9f2dcfd-d94b-426c-8d88-212ed21e4aed">
+
 
 ## Adding Item to Cart
 <img width="1440" alt="Adding to Cart" src="https://github.com/Saad1929/Online-Shopping-Store/assets/108022733/e302e32d-64f9-4da0-814a-79306c06cee1">
