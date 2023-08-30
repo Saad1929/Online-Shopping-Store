@@ -48,5 +48,6 @@
 <img width="1440" alt="Adding to Cart" src="https://github.com/Saad1929/Online-Shopping-Store/assets/108022733/a1ac65c2-e87c-400a-a3ac-825697af03f6">
 
 ## Shopping Cart View
-<img width="1440" alt="Shopping Cart View" src="https://github.com/Saad1929/Online-Shopping-Store/assets/108022733/0a4d3e56-e0bf-454f-88a4-2b41ed33600d">
+<img width="1440" alt="Shopping Cart View" src="https://github.com/Saad1929/Online-Shopping-Store/assets/108022733/e9faad45-cd67-433c-a9e3-09fa45ee21cd">
+
 
