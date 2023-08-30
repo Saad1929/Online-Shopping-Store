@@ -11,4 +11,5 @@
 
 <a name="aims"></a>
 ## 🎯Aims and Motivation
+- Driven by an **unwavering enthusiasm for learning and self-improvement**, I dedicated my **personal time** to meticulously develop and refine this Front-End Application.
 
