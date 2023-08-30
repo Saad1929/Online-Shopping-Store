@@ -24,3 +24,7 @@
 ### Frameworks and Libraries
 - React
 - Bootstrap
+### Other Software Tools
+- **Git** was used as a **Version Control System (VCS)** to **maintain a history of the software project**.
+- **GitHub** was used to **host and maintain history of the project**.
+- **VSCode** was used as the **Integrated Development Environment (IDE)**.
