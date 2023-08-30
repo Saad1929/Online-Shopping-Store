@@ -40,3 +40,6 @@
 
 <a name="screenshots"></a>
 ## Application Screenshots
+## Store Page
+<img width="1440" alt="Store Page" src="https://github.com/Saad1929/Online-Shopping-Store/assets/108022733/a7a5611f-28c6-4f13-9132-dd2cd30deae2">
+
