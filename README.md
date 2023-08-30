@@ -8,9 +8,7 @@
 
 <a name="summary"></a>
 ## Brief Summary
-- Personal Group Project React & TypeScript Project to create a **Front-End Application**.
-- **Agile Methodology** followed with **Pair Programming** alongside 3 other developers.
-- The project was **planned collaboratively** and **Pair Programmed** with the **involvement of 3 other developers**, emphasising **teamwork** in software design and development.
+- Personal Project React & TypeScript Project to create a **Front-End Application**.
 
 <a name="aims"></a>
 ## 🎯Aims and Motivation
