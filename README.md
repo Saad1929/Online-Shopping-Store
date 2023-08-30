@@ -46,4 +46,6 @@
 ## Adding Item to Cart
 <img width="1440" alt="Adding to Cart" src="https://github.com/Saad1929/Online-Shopping-Store/assets/108022733/e302e32d-64f9-4da0-814a-79306c06cee1">
 
+## Shopping Cart View
+<img width="1440" alt="Shopping Cart View" src="https://github.com/Saad1929/Online-Shopping-Store/assets/108022733/0a4d3e56-e0bf-454f-88a4-2b41ed33600d">
 
