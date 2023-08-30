@@ -31,3 +31,5 @@
 
 <a name="design"></a>
 ## ✏️Design
+### Technology Stack
+
