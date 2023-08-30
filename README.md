@@ -11,5 +11,7 @@
 
 <a name="aims"></a>
 ## 🎯Aims and Motivation
+- The main objective of this project was to create a **thorough Front-End Application** using **React & TypeScript**.
 - Driven by an **unwavering enthusiasm for learning and self-improvement**, I dedicated my **personal time** to meticulously develop and refine this Front-End Application.
+
 
